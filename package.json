@@ -1,0 +1,22 @@
+{
+  "name": "hero-espressjs-crud-2-https",
+  "version": "0.0.1",
+  "description": "express js crud sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joncarrillo/hero-expressjs-crud.git"
+  },
+  "author": "TBK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joncarrillo/hero-expressjs-crud/issues"
+  },
+  "homepage": "https://github.com/joncarrillo/hero-expressjs-crud#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
