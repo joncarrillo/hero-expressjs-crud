@@ -1,0 +1,22 @@
+{
+  "name": "carpeta2",
+  "version": "1.0.0",
+  "description": "express js crud sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joncarrillo/hero-expressjs-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joncarrillo/hero-expressjs-crud/issues"
+  },
+  "homepage": "https://github.com/joncarrillo/hero-expressjs-crud#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
